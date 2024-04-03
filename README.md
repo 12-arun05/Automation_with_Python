@@ -16,9 +16,13 @@ Excel files are widely used for storing and analyzing data. However, performing 
 
 # Usage:
  1.Clone or download the project repository to your local machine.
+ 
  2.Install the required dependencies using pip install -r requirements.txt.
+ 
  3.Run the app.py script and follow the on-screen instructions to input file names, discount percentages, chart preferences, and column numbers.
+ 
  4.View the generated Excel file with updated data and charts based on your inputs.
+ 
 # Dependencies:
  1.Python 3.x
  
